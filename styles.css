@@ -85,6 +85,11 @@ a{
    flex-direction: column;
    gap: 5rem;
 }
+.group-2 {
+   display: flex;
+   flex-direction: column;
+   gap: 5rem;
+}
 
 /* profile */
 
@@ -147,5 +152,16 @@ a{
 /* certification */
 
 .certification_item{
+   margin-top: 2rem;
+}
+
+/* exp */
+.exp_item{
+   margin-top: 2rem;
+}
+
+/* awards */
+
+.awards_item{
    margin-top: 2rem;
 }

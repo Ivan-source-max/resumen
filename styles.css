@@ -5,3 +5,10 @@
    margin: 0;
    box-sizing: border-box;
 }
+:root{
+   --primary-color: #ff7613;
+   --text-color: #727171;
+}
+html{
+   font-size: 10px;
+}

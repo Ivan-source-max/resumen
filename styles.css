@@ -236,8 +236,8 @@ hr{
    border: none;
    border-top: 2px solid rgba(128, 128, 128, 0.289);
 }
-@media only screen (max-width:768px){
-   hr{
+@media only screen (max-width: 768px) {
+   hr {
       margin: 0 auto;
-   }
+      }
 }
